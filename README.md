@@ -2,7 +2,7 @@
 
 Portfolio page of Dave Schuetz
 
-My name is Dave and I am a web developer with an international perspective, able to communicate details and methodologies to stakeholders in more understandable terms. My ardor for learning, coupled with my aptitude for problem solving, make me an asset to any team or project.
+This is an old portfolio, to see the new one go to https://daveschuetz.github.io
 
 ## Projects
 * [Jotpad](https://jot-pad-notes.firebaseapp.com/)
